@@ -1,0 +1,17 @@
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\hostpolicy.dll
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\hostfxr.dll
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.exe
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.deps.json
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.runtimeconfig.json
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.runtimeconfig.dev.json
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.dll
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.pdb
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.dll
+C:\Test\ActorTest\MyActorService\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.pdb
+C:\Test\ActorTest\MyActorService\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.csprojAssemblyReference.cache
+C:\Test\ActorTest\MyActorService\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.csproj.CoreCompileInputs.cache
+C:\Test\ActorTest\MyActorService\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.AssemblyInfoInputs.cache
+C:\Test\ActorTest\MyActorService\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.AssemblyInfo.cs
+C:\Test\ActorTest\MyActorService\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.csproj.CopyComplete
+C:\Test\ActorTest\MyActorService\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.dll
+C:\Test\ActorTest\MyActorService\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.pdb

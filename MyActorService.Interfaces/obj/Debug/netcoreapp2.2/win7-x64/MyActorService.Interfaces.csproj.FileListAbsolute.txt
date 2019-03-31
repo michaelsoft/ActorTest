@@ -1,0 +1,9 @@
+C:\Test\ActorTest\MyActorService.Interfaces\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.deps.json
+C:\Test\ActorTest\MyActorService.Interfaces\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.dll
+C:\Test\ActorTest\MyActorService.Interfaces\bin\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.pdb
+C:\Test\ActorTest\MyActorService.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.csprojAssemblyReference.cache
+C:\Test\ActorTest\MyActorService.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.csproj.CoreCompileInputs.cache
+C:\Test\ActorTest\MyActorService.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.AssemblyInfoInputs.cache
+C:\Test\ActorTest\MyActorService.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.AssemblyInfo.cs
+C:\Test\ActorTest\MyActorService.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.dll
+C:\Test\ActorTest\MyActorService.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\MyActorService.Interfaces.pdb
