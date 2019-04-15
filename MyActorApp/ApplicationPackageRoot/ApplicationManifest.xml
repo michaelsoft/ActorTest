@@ -4,7 +4,7 @@
     <Parameter Name="MyActorService_PartitionCount" DefaultValue="10" />
     <Parameter Name="MyActorService_MinReplicaSetSize" DefaultValue="3" />
     <Parameter Name="MyActorService_TargetReplicaSetSize" DefaultValue="3" />
-    <Parameter Name="Actor1ActorService_PartitionCount" DefaultValue="10" />
+    <Parameter Name="Actor1ActorService_PartitionCount" DefaultValue="3" />
     <Parameter Name="Actor1ActorService_MinReplicaSetSize" DefaultValue="3" />
     <Parameter Name="Actor1ActorService_TargetReplicaSetSize" DefaultValue="3" />
   </Parameters>
@@ -17,7 +17,7 @@
   <DefaultServices>
     <Service Name="Actor1ActorService" GeneratedIdRef="a0a1b3a9-d56f-4cb6-b0b0-beccd9787b43|Persisted">
       <StatefulService ServiceTypeName="Actor1ActorServiceType" TargetReplicaSetSize="[Actor1ActorService_TargetReplicaSetSize]" MinReplicaSetSize="[Actor1ActorService_MinReplicaSetSize]">
-        <UniformInt64Partition PartitionCount="[Actor1ActorService_PartitionCount]" LowKey="-9223372036854775808" HighKey="9223372036854775807" />
+        <UniformInt64Partition PartitionCount="[Actor1ActorService_PartitionCount]" LowKey="1" HighKey="3" />
       </StatefulService>
     </Service>
     <!-- The section below creates instances of service types, when an instance of this 

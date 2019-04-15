@@ -4,7 +4,7 @@
     <Parameter Name="MyActorService_PartitionCount" DefaultValue="10" />
     <Parameter Name="MyActorService_MinReplicaSetSize" DefaultValue="3" />
     <Parameter Name="MyActorService_TargetReplicaSetSize" DefaultValue="3" />
-    <Parameter Name="Actor1ActorService_PartitionCount" DefaultValue="10" />
+    <Parameter Name="Actor1ActorService_PartitionCount" DefaultValue="3" />
     <Parameter Name="Actor1ActorService_MinReplicaSetSize" DefaultValue="3" />
     <Parameter Name="Actor1ActorService_TargetReplicaSetSize" DefaultValue="3" />
   </Parameters>
