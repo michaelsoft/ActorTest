@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actor1", "Actor1\Actor1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actor1.Interfaces", "Actor1.Interfaces\Actor1.Interfaces.csproj", "{7616082D-5370-46F0-9193-6835278F8EE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{3A547400-7A6E-434B-AF53-D471E7D0922E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{3A547400-7A6E-434B-AF53-D471E7D0922E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B9191285-557C-43FF-8ADB-79F5027A4007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,14 @@ Global
 		{3A547400-7A6E-434B-AF53-D471E7D0922E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3A547400-7A6E-434B-AF53-D471E7D0922E}.Release|x64.ActiveCfg = Release|Any CPU
 		{3A547400-7A6E-434B-AF53-D471E7D0922E}.Release|x64.Build.0 = Release|Any CPU
+		{B9191285-557C-43FF-8ADB-79F5027A4007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9191285-557C-43FF-8ADB-79F5027A4007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9191285-557C-43FF-8ADB-79F5027A4007}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B9191285-557C-43FF-8ADB-79F5027A4007}.Debug|x64.Build.0 = Debug|Any CPU
+		{B9191285-557C-43FF-8ADB-79F5027A4007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9191285-557C-43FF-8ADB-79F5027A4007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9191285-557C-43FF-8ADB-79F5027A4007}.Release|x64.ActiveCfg = Release|Any CPU
+		{B9191285-557C-43FF-8ADB-79F5027A4007}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

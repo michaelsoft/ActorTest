@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ApplicationManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicationTypeName="MyActorAppType" ApplicationTypeVersion="1.0.0" xmlns="http://schemas.microsoft.com/2011/01/fabric">
   <Parameters>
-    <Parameter Name="MyActorService_PartitionCount" DefaultValue="10" />
-    <Parameter Name="MyActorService_MinReplicaSetSize" DefaultValue="3" />
-    <Parameter Name="MyActorService_TargetReplicaSetSize" DefaultValue="3" />
-    <Parameter Name="Actor1ActorService_PartitionCount" DefaultValue="3" />
-    <Parameter Name="Actor1ActorService_MinReplicaSetSize" DefaultValue="3" />
-    <Parameter Name="Actor1ActorService_TargetReplicaSetSize" DefaultValue="3" />
+    <Parameter Name="Actor1ActorService_PartitionCount" DefaultValue="1" />
+    <Parameter Name="Actor1ActorService_MinReplicaSetSize" DefaultValue="1" />
+    <Parameter Name="Actor1ActorService_TargetReplicaSetSize" DefaultValue="1" />
   </Parameters>
   <!-- Import the ServiceManifest from the ServicePackage. The ServiceManifestName and ServiceManifestVersion 
        should match the Name and Version attributes of the ServiceManifest element defined in the 
@@ -17,7 +14,7 @@
   <DefaultServices>
     <Service Name="Actor1ActorService" GeneratedIdRef="a0a1b3a9-d56f-4cb6-b0b0-beccd9787b43|Persisted">
       <StatefulService ServiceTypeName="Actor1ActorServiceType" TargetReplicaSetSize="[Actor1ActorService_TargetReplicaSetSize]" MinReplicaSetSize="[Actor1ActorService_MinReplicaSetSize]">
-        <UniformInt64Partition PartitionCount="[Actor1ActorService_PartitionCount]" LowKey="1" HighKey="3" />
+        <UniformInt64Partition PartitionCount="[Actor1ActorService_PartitionCount]" LowKey="-9223372036854775808" HighKey="9223372036854775807" />
       </StatefulService>
     </Service>
     <!-- The section below creates instances of service types, when an instance of this 

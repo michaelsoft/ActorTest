@@ -1433,11 +1433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Test\\ActorTest\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "c:\\test\\ActorTest\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Test\\ActorTest\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "c:\\test\\ActorTest\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Test\\ActorTest\\ConsoleApp1\\obj\\",
+      "outputPath": "c:\\test\\ActorTest\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1458,8 +1458,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Test\\ActorTest\\Actor1.Interfaces\\Actor1.Interfaces.csproj": {
-              "projectPath": "C:\\Test\\ActorTest\\Actor1.Interfaces\\Actor1.Interfaces.csproj"
+            "c:\\test\\ActorTest\\Actor1.Interfaces\\Actor1.Interfaces.csproj": {
+              "projectPath": "c:\\test\\ActorTest\\Actor1.Interfaces\\Actor1.Interfaces.csproj"
             }
           }
         }
